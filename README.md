@@ -11,7 +11,7 @@ AIAT hackathon with the aim of developing a deep learning model that can accurat
   <img width="460" height="300" src="./im.png">
 </p>
 
-## Stack
+## Tech
 
 **Model:** YoloV5
 
