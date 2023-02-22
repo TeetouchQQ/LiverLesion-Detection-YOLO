@@ -11,10 +11,11 @@ AIAT hackathon with the aim of developing a deep learning model that can accurat
   <img width="460" height="300" src="./im.png">
 </p>
 
-## Acknowledgements
+## Stack
 
- - [YOLOV5](https://github.com/ultralytics/yolov5)
- - [WanDB](https://wandb.ai/site)
+**Model:** YoloV5
+
+**Logging:** WanDB
 
 
 
