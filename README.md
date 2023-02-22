@@ -7,7 +7,7 @@ AIAT hackathon with the aim of developing a deep learning model that can accurat
 
 
 
-![Centered text][alt text](im.png)
+![alt text](im.png)
 
 ## Acknowledgements
 
