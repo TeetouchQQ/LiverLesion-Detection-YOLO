@@ -8,7 +8,7 @@ AIAT hackathon with the aim of developing a deep learning model that can accurat
 
 
 <p align="center">
-  <img width="460" height="300" src=./im.png">
+  <img width="460" height="300" src="./im.png">
 </p>
 
 ## Acknowledgements
